@@ -38,5 +38,5 @@
     "solc": "^0.4.25",
     "solium": "^1.2.4"
   },
-  "precommit": "tronbox compile"
+  {"precommit": "tronbox compile"}
 }

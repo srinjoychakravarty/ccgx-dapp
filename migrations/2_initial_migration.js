@@ -1,7 +1,7 @@
-var TRC20 = artifacts.require("./TRC20.sol");
+var CCGX_Swap = artifacts.require("./CCGX_Swap.sol");
 
 module.exports = function(deployer) {
 
-  deployer.deploy(TRC20);
+  deployer.deploy(CCGX_Swap);
 
 };
